@@ -86,3 +86,8 @@ The goal of this project is to build a classification model that accurately pred
 <br>
    **Precision:** 0.76 (class 0), 0.62 (class 1)
 <br>
+**Recall:** 0.83 (class 0), 0.52 (class 1)
+<br>
+**F1-Score:** 0.79 (class 0), 0.57 (class 1)
+<br>
+**Overall Accuracy:** 72% on test data.
